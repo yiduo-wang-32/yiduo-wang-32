@@ -1,4 +1,4 @@
-# Bashor Lab Website Source Code
+# Website Source Code
 
 The source code for [my website](https://yiduo-wang-32.github.io/).
 
