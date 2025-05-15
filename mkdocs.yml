@@ -1,0 +1,35 @@
+site_name: Yiduo Wang
+
+theme:
+  name: material
+  # logo: './images/favicon.png'
+  # favicon: './images/favicon.png'
+  # menu: './images/favicon.png'
+
+  # palette: 
+  #   scheme: slate
+  #   primary: black
+
+  # features:
+    # - header.autohide
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
+
+nav:
+  - HOME: 'index.md'
+  - X (Twitter): 'https://x.com/yiduo_wang_32'
+  - GitHub: 'https://github.com/yiduo-wang-32'
+
+# extra_css:
+#   - assets/main.css
+#   - assets/animation.css
+
+# extra_javascript:
+#   - assets/script.js
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+# plugins: []  # remove search bar
