@@ -1,12 +1,12 @@
 # Website Source Code
 
-The source code for [my website](https://yiduo-wang-32.github.io/).
+The source code for [my website](https://yiduo-wang-32.github.io/yiduo-wang-32/).
 
 The website is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), which is build based on [MkDocs](https://www.mkdocs.org/) that converts markdown files into website that is deployable.
 
 ## Making Quick Changes Online
 
-To make quick changes to the content of the website, you can directly edit the markdown (`.md`) files in [`./docs`](./docs/) folder online. Save and commit once you made the edits.
+To make quick changes to the content of the website, directly edit the markdown (`.md`) files in [`./docs`](./docs/) folder online. Save and commit once you made the edits.
 
 See [below](#build-instructions) for making significant changes, with preview on your local machine.
 
@@ -46,7 +46,7 @@ See [below](#build-instructions) for making significant changes, with preview on
 
 ### Deploy website
 
-- The website ([yiduo-wang-32.github.io](https://yiduo-wang-32.github.io/)) is automatically updated with [GitHub Actions](https://github.com/features/actions), which triggers an automatic update once it receives a push on `main` branch. The automatic GitHub Actions builds and deploys the website on `gh-pages` branch.
+- The [website](https://yiduo-wang-32.github.io/yiduo-wang-32/) is automatically updated with [GitHub Actions](https://github.com/features/actions), which triggers an automatic update once it receives a push on `main` branch. The automatic GitHub Actions builds and deploys the website on `gh-pages` branch.
 - If you wish to obtain a deployable version of the website, you can either:
   - Clone the `gh-pages` branch, or
   - Use following command to build on the local machine:
