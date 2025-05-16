@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'Consolas';
+	src: url('../fonts/Consolas.ttf') format('truetype');
+	font-style: normal;
+	font-display: auto;
+}
+
+* {
+	font-family: 'Consolas';
+}
+
+.profile-pic {
+	height: 240px;
+	width: 240px;
+}
+
+.download-icon {
+	height: 15px;
+	width: 15px;
+	vertical-align: middle;
+}
+
+.md-typeset blockquote,
+.md-typeset dl,
+.md-typeset figure,
+.md-typeset ol,
+.md-typeset pre,
+.md-typeset ul,
+.md-typeset p {
+	margin-bottom: 2em;
+}
