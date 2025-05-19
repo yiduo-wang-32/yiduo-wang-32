@@ -30,7 +30,7 @@ See [below](#build-instructions) for making significant changes, with preview on
 - Clone the repository to your local directory:
   
   ```bash
-  git clone git@github.com:cbashorlab/cbashorlab.github.io.git
+  git clone git@github.com:yiduo-wang-32/yiduo-wang-32.git
   ```
 
 ### Update content
