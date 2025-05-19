@@ -11,13 +11,13 @@
 
 ## About Me
 
-I am a PhD student at Rice Bioengineering program, co-advised by Dr. Bashor and Dr. Igoshin. Prior to this, I had my bachelor's degree at UW-Madison, majoring in biochemistry and computer sciences.
+I am a PhD student at Rice Bioengineering program, co-advised by Dr. Bashor and Dr. Igoshin. Prior to this, I had my bachelor's degree at UW-Madison, majoring in biochemistry and computer science.
 
 ## My Research Interests
 
-I am interested in applying machine learning to solve biology problems. Particularly, I am interested in using ML models to gain insights to improve our understanding of biological systems, as well as using it to guide synthetic gene circuit design.
+I am interested in applying machine learning to solve biology problems. Particularly, I am interested in using ML models to gain insights to improve our understanding of biological systems, as well as using them to guide synthetic gene circuit design.
 
-My current project focus on leaveraging transfer learning to study prokaryotic gene regulatory elements (GREs), in particular, the ribosome binding site (RBS) sequence. We demonstrated that by utilizing a predictive model trained on a large dataset collected in *E. coli*, we were able to fine-tune the model to predict the RBS strength in other non-model species with a small, easy to collect dataset. Additionally, analyzing the prediction of the model allows us to discover the tetra-start codon effect
+My current project focuses on leveraging transfer learning to study prokaryotic gene regulatory elements (GREs), in particular, the ribosome binding site (RBS) sequence. We demonstrated that by utilizing a predictive model trained on a large dataset collected in *E. coli*, we were able to fine-tune the model to predict the RBS strength in other non-model species with a small, easy-to-collect dataset. Additionally, analyzing the prediction of the model allows us to discover the tetra-start codon effect
 
 ## Publications
 
