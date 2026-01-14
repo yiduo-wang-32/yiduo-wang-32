@@ -2,7 +2,7 @@
 
 ![Portrait](./images/portrait.jpeg){.profile-pic}
 
-- **PhD student**, *Advisors: Caleb J. Bashor, Oleg A. Igoshin*
+- **PhD Candidate**, *Advisors: Caleb J. Bashor, Oleg A. Igoshin*
 - [Bashor Lab](https://bashorlab.rice.edu/)
 - [Cellular Systems Dynamics (Igoshin) Lab](https://igoshin.rice.edu/)
 - [Department of Bioengineering](https://bioengineering.rice.edu/), Rice University
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a PhD student at Rice Bioengineering program, co-advised by Dr. Bashor and Dr. Igoshin. Prior to this, I had my bachelor's degree at UW-Madison, majoring in biochemistry and computer science.
+I am a PhD candidate at Rice Bioengineering program, co-advised by Dr. Bashor and Dr. Igoshin. Prior to this, I had my bachelor's degree at UW-Madison, majoring in biochemistry and computer science.
 
 ## My Research Interests
 
@@ -21,12 +21,14 @@ My current project focuses on leveraging transfer learning to study prokaryotic 
 
 ## Publications
 
+O’Connell, R. W.\*, Rai, K.\*, Piepergerdes, T. C., **Wang, Y.**, Samra, K. D., Wilson, J. A., ... & Bashor, C. J. (2023). Ultra-high throughput mapping of genetic design space. *Accepted by* ***Nature*** ([*BioRxiv* link](https://doi.org/10.1101/2023.03.16.532704))([download](./pdfs/2023_BioRXiv_CLASSIC.pdf))
+
 Rai, K., **Wang, Y.**, O’Connell, R. W., Patel, A. B., & Bashor, C. J. (2024). Using Machine Learning to Enhance and Accelerate Synthetic Biology. ***Current Opinion in Biomedical Engineering***, 100553. ([link](https://doi.org/10.1016/j.cobme.2024.100553))([download](./pdfs/2024_ML_synBio_review.pdf))
 
-O’Connell, R. W.\*, Rai, K.\*, Piepergerdes, T. C., **Wang, Y.**, Samra, K. D., Wilson, J. A., ... & Bashor, C. J. (2023). Ultra-high throughput mapping of genetic design space. *Under revision at* ***Nature*** ([*BioRxiv* link](https://doi.org/10.1101/2023.03.16.532704))([download](./pdfs/2023_BioRXiv_CLASSIC.pdf))
-
 Rai, K.\*, **Wang, Y.\***, O’Connell, R. W.\*, Kille, B.\*, …, Bashor, C. J. (2025). WIMPY: A software package for nanopore
-sequencing analysis of combinatorial genetic libraries of arbitrary length scales. *Under revision at ****OUP Bioinformatics***.
+sequencing analysis of combinatorial genetic libraries of arbitrary length scales. *Under revision at* ***OUP Bioinformatics***.
+
+**Wang, Y.\***, Rai, K.\*, Bhakta, S., Zhang, J., Bennett, M.R., Igoshin, O.A., Bashor, C. J. (2025). Transfer learning-guided cross-species engineering of bacterial ribosome binding site sequences. *In preparation for submission*. 
 
 *(\* denotes equal contribution)*
 
