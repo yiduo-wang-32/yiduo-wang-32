@@ -1,56 +1,45 @@
-# Website Source Code
+# Yiduo Wang
 
-The source code for [my website](https://yiduo-wang-32.github.io/yiduo-wang-32/).
+<img src="docs/images/portrait.jpeg" alt="Portrait" class="profile-pic" width="240" height="240">
 
-The website is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), which is build based on [MkDocs](https://www.mkdocs.org/) that converts markdown files into website that is deployable.
+- **PhD Candidate**, *Advisors: Caleb J. Bashor, Oleg A. Igoshin*
+- [Bashor Lab](https://bashorlab.rice.edu/)
+- [Cellular Systems Dynamics (Igoshin) Lab](https://igoshin.rice.edu/)
+- [Department of Bioengineering](https://bioengineering.rice.edu/), Rice University
+- BioScience Research Collaborative (6500 Main St, Houston, TX 77030)
+- yiduo at rice dot edu
 
-## Making Quick Changes Online
+## About Me
 
-To make quick changes to the content of the website, directly edit the markdown (`.md`) files in [`./docs`](./docs/) folder online. Save and commit once you made the edits.
+I am a PhD candidate at Rice Bioengineering program, co-advised by Dr. Bashor and Dr. Igoshin. Prior to this, I had my bachelor's degree at UW-Madison, majoring in biochemistry and computer science.
 
-See [below](#build-instructions) for making significant changes, with preview on your local machine.
+## My Research Interests
 
-## Build Instructions
+I am interested in applying machine learning to solve biology problems. Particularly, I am interested in using ML models to gain insights to improve our understanding of biological systems, as well as using them to guide synthetic gene circuit design.
 
-### Setting up
+My current project focuses on leveraging transfer learning to study prokaryotic gene regulatory elements (GREs), in particular, the ribosome binding site (RBS) sequence. We demonstrated that by utilizing a predictive model trained on a large dataset collected in *E. coli*, we were able to fine-tune the model to predict the RBS strength in other non-model species with a small, easy-to-collect dataset. Additionally, analyzing the prediction of the model allows us to discover the tetra-start codon effect.
 
-- Ideally, setup a virtual environment specifically for MkDocs with conda ([Miniconda](https://docs.anaconda.com/miniconda/install/) or [Anaconda](https://docs.anaconda.com/anaconda/install/) required):
+## Publications
 
-  ```bash
-  conda create -n mkdocs python
-  conda activate mkdocs
-  ```
+O’Connell, R. W.\*, Rai, K.\*, Piepergerdes, T. C., **Wang, Y.**, Samra, K. D., Wilson, J. A., ... & Bashor, C. J. (2023). Ultra-high throughput mapping of genetic design space. ***Nature*** ([link](https://doi.org/10.1038/s41586-025-09933-9))([download](docs/pdfs/2026_Nature_CLASSIC.pdf))
 
-- Install [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/):
+Rai, K., **Wang, Y.**, O’Connell, R. W., Patel, A. B., & Bashor, C. J. (2024). Using Machine Learning to Enhance and Accelerate Synthetic Biology. ***Current Opinion in Biomedical Engineering***, 100553. ([link](https://doi.org/10.1016/j.cobme.2024.100553))([download](docs/pdfs/2024_CoBME_ML_synBio_review.pdf))
 
-  ```bash
-  pip install mkdocs-material
-  ```
+Rai, K.\*, **Wang, Y.\***, O’Connell, R. W.\*, Kille, B.\*, …, Bashor, C. J. (2025). WIMPY: A software package for nanopore
+sequencing analysis of combinatorial genetic libraries of arbitrary length scales. *Under revision at* ***OUP Bioinformatics***.
 
-- Clone the repository to your local directory:
-  
-  ```bash
-  git clone git@github.com:yiduo-wang-32/yiduo-wang-32.git
-  ```
+**Wang, Y.\***, Rai, K.\*, Bhakta, S., Zhang, J., Bennett, M.R., Igoshin, O.A., Bashor, C. J. (2025). Transfer learning-guided cross-species engineering of bacterial ribosome binding site sequences. *In preparation for submission*. 
 
-### Update content
+*(\* denotes equal contribution)*
 
-- Update Markdown files in `docs` folder
-- Add in extra document, image, pdfs, css, javascript files as needed
-- Update configurations in `mkdocs.yml`
-- Preview the website on localhost:
-  
-  ```bash
-  mkdocs serve
-  ```
+## Projects
 
-### Deploy website
+[WIMPY](https://github.com/cbashorlab/WIMPY) - a software package for nanopore sequencing analysis of combinatorial genetic libraries of arbitrary length scales (*algorithm optimization, developed Python version*)
 
-- The [website](https://yiduo-wang-32.github.io/yiduo-wang-32/) is automatically updated with [GitHub Actions](https://github.com/features/actions), which triggers an automatic update once it receives a push on `main` branch. The automatic GitHub Actions builds and deploys the website on `gh-pages` branch.
-- If you wish to obtain a deployable version of the website, you can either:
-  - Clone the `gh-pages` branch, or
-  - Use following command to build on the local machine:
-  
-    ```bash
-    mkdocs gh-deploy
-    ```
+[OSTIR](https://github.com/barricklab/ostir) - software for predicting translation initiation rates in bacteria (*contributed to the API of constant calibration and I/O*)
+
+<!-- website-end: everything below this line appears only on GitHub, not on the website -->
+
+---
+
+This repository is the source for [my website](https://yiduo-wang-32.github.io/yiduo-wang-32/). For maintenance instructions, see [INSTRUCTIONS.md](./INSTRUCTIONS.md).

@@ -51,3 +51,11 @@ markdown_extensions:
   - md_in_html
 
 # plugins: []  # remove search bar
+
+plugins:
+  - search
+  - include-markdown  # pulls README.md into docs/index.md
+
+# rebuild the live preview when README.md changes
+watch:
+  - README.md
