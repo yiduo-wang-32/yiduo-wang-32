@@ -21,7 +21,9 @@ My current project focuses on leveraging transfer learning to study prokaryotic 
 
 ## Publications
 
-O’Connell, R. W.\*, Rai, K.\*, Piepergerdes, T. C., **Wang, Y.**, Samra, K. D., Wilson, J. A., ... & Bashor, C. J. (2023). Ultra-high throughput mapping of genetic design space. ***Nature*** ([link](https://doi.org/10.1038/s41586-025-09933-9))([download](docs/pdfs/2026_Nature_CLASSIC.pdf))
+O’Connell, R. W.\*, Rai, K.\*, Piepergerdes, T. C., **Wang, Y.**, Samra, K. D., Wilson, J. A., ... & Bashor, C. J. (2026). Ultra-high throughput mapping of genetic design space. ***Nature*** ([link](https://doi.org/10.1038/s41586-025-09933-9))([download](docs/pdfs/2026_Nature_CLASSIC.pdf))
+
+Lee, M., **Wang, Y.**, Rai, K., Li, S., Whited, H. K., Pozo Araujo, M. A., & Bashor, C. J. (2026). Reimagining the Synthetic Biology DBTL Cycle with Machine Learning. In *Synthetic Gene Circuits*, ***Methods in Molecular Biology***, 3–31. ([link](https://doi.org/10.1007/978-1-0716-5304-3_1))
 
 Rai, K., **Wang, Y.**, O’Connell, R. W., Patel, A. B., & Bashor, C. J. (2024). Using Machine Learning to Enhance and Accelerate Synthetic Biology. ***Current Opinion in Biomedical Engineering***, 100553. ([link](https://doi.org/10.1016/j.cobme.2024.100553))([download](docs/pdfs/2024_CoBME_ML_synBio_review.pdf))
 
